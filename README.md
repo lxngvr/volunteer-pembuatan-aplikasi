@@ -1,2 +1,9 @@
 # volunteer-pembuatan-aplikasi
-Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi Dicoding. --- Latihan Belajar Dasar Git
+Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi [Dicoding](www.dicoding.com).<br>
+Jika Anda tertarik untuk menjadi Volunteer, silakan lakukan PR(pull-request) pada berkas ini ya.<br>
+
+Silakan gunakan format berikut:<br>
+**\*Nama, [Linkedin/GitHub/Website](Alamat URL).**
+
+Berikut adalah daftar Volunteer yang diterima:
+* Aan Andreswara, [aa.or.id](https://aa.or.id).
